@@ -6,7 +6,7 @@ Steps on how to edit :
   2. Open files in explorer
   3. Copy ONLY the .tex file to seperate a location
   4. Work on the file
-  5. Put the edited file + pdf back in the repo folder
+  5. Put the edited file + pdf and any images you have back in their repo folders
   6. Commit the changes in the program
   7. Sync file
   
