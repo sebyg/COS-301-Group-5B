@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  26 FEB 2015 16:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  26 FEB 2015 17:24
 entering extended mode
-**C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working*Copy/WorkingCopy.tex
-("C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/WorkingCopy.tex"
+**C:/Users/Bella/xxxa/Working*Copy/WorkingCopy.tex
+("C:/Users/Bella/xxxa/Working Copy/WorkingCopy.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -177,8 +177,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
-("C:\Users\Shaun\Desktop\COS-301\COS-301-Group-5B\Working Copy\WorkingCopy.aux"
-)
+("C:\Users\Bella\xxxa\Working Copy\WorkingCopy.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -193,7 +192,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
- ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count98
 \scratchdimen=\dimen109
@@ -221,11 +221,11 @@ LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
 LaTeX Info: Redefining \nameref on input line 7.
 
-("C:\Users\Shaun\Desktop\COS-301\COS-301-Group-5B\Working Copy\WorkingCopy.out"
-) ("C:\Users\Shaun\Desktop\COS-301\COS-301-Group-5B\Working Copy\WorkingCopy.ou
-t")
+("C:\Users\Bella\xxxa\Working Copy\WorkingCopy.out")
+("C:\Users\Bella\xxxa\Working Copy\WorkingCopy.out")
 \@outlinefile=\write3
- <Images/example.jpg, id=95, 1156.32pt x 650.43pt>
+
+<Images/example.jpg, id=95, 1156.32pt x 650.43pt>
 File: Images/example.jpg Graphic file (type jpg)
  <use Images/example.jpg>
 Package pdftex.def Info: Images/example.jpg used on input line 16.
@@ -243,8 +243,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 26.
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Shaun/Desktop/CO
-S-301/COS-301-Group-5B/Working Copy/Images/example.jpg>]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Bella/xxxa/Worki
+ng Copy/Images/example.jpg>]
 Overfull \hbox (6.86775pt too wide) in paragraph at lines 57--57
 []\OT1/cmr/bx/n/17.28 Functional re-quire-ments and ap-pli-ca-tion de-
  []
@@ -261,67 +261,64 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 <Images/thread.jpg, id=122, 906.38625pt x 503.8825pt>
 File: Images/thread.jpg Graphic file (type jpg)
  <use Images/thread.jpg>
-Package pdftex.def Info: Images/thread.jpg used on input line 131.
+Package pdftex.def Info: Images/thread.jpg used on input line 130.
 (pdftex.def)             Requested size: 906.38403pt x 503.88127pt.
 
-Overfull \hbox (534.00885pt too wide) in paragraph at lines 131--132
+Overfull \hbox (534.00885pt too wide) in paragraph at lines 130--131
 [][] 
  []
 
 [5] <Images/post.jpg, id=127, 870.25125pt x 551.05875pt>
 File: Images/post.jpg Graphic file (type jpg)
  <use Images/post.jpg>
-Package pdftex.def Info: Images/post.jpg used on input line 135.
+Package pdftex.def Info: Images/post.jpg used on input line 134.
 (pdftex.def)             Requested size: 870.24913pt x 551.05739pt.
 
-Overfull \hbox (497.87395pt too wide) in paragraph at lines 135--136
+Overfull \hbox (497.87395pt too wide) in paragraph at lines 134--135
 [][] 
  []
 
-[6 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/thread.
-jpg>]
+[6 <C:/Users/Bella/xxxa/Working Copy/Images/thread.jpg>]
 Overfull \vbox (2.55739pt too high) has occurred while \output is active []
 
 
-[7 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/post.jp
-g>] <Images/request1.jpg, id=137, 860.21375pt x 499.8675pt>
+[7 <C:/Users/Bella/xxxa/Working Copy/Images/post.jpg>]
+<Images/request1.jpg, id=137, 860.21375pt x 499.8675pt>
 File: Images/request1.jpg Graphic file (type jpg)
 
 <use Images/request1.jpg>
-Package pdftex.def Info: Images/request1.jpg used on input line 139.
+Package pdftex.def Info: Images/request1.jpg used on input line 138.
 (pdftex.def)             Requested size: 860.21164pt x 499.86627pt.
 
-Overfull \hbox (487.83646pt too wide) in paragraph at lines 139--140
+Overfull \hbox (487.83646pt too wide) in paragraph at lines 138--139
 [][] 
  []
 
-[8 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/request
-1.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
+[8 <C:/Users/Bella/xxxa/Working Copy/Images/request1.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
  [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
 
-("C:\Users\Shaun\Desktop\COS-301\COS-301-Group-5B\Working Copy\WorkingCopy.aux"
-)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
+("C:\Users\Bella\xxxa\Working Copy\WorkingCopy.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
 Package rerunfilecheck Info: File `WorkingCopy.out' has not changed.
 (rerunfilecheck)             Checksum: E232F684B29122E295F25AC4D0055C9C;1554.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
  5042 strings out of 493921
- 75139 string characters out of 3147282
+ 74831 string characters out of 3147282
  151823 words of memory out of 3000000
  8286 multiletter control sequences out of 15000+200000
  7894 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,7n,28p,305b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,28p,277b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on WorkingCopy.pdf (9 pages, 779211 bytes).
+Output written on WorkingCopy.pdf (9 pages, 779212 bytes).
 PDF statistics:
  172 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)
