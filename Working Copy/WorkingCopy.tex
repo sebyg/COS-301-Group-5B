@@ -58,7 +58,14 @@
 	
 \section{Functional requirements and application design}
 	\subsection{Use case prioritization}
-		Put words here...
+		 Login (Critical),
+		Logout (Critical),
+		Post (Critical),
+		Request (Nice to have),
+		Thread (Critical),
+		Voting (Nice to have),
+		Search (Important),
+		Buzz Space (Critical) 
 	\subsection{Use case/Services contracts}
 			\subsubsection{Login}
 				Pre-Conditions : \begin{itemize}
@@ -92,6 +99,23 @@
 							\item Request is sent.
 						     \end{itemize}
    				 \includegraphics[scale=1]{Request}
+			\subsubsection{Thread}
+				Pre-Conditions : \begin{itemize}
+							\item Only Authorised persons may use this functionality
+							\item Buzz Space needs to exist 
+							\ No such thread sould already exist
+						     \end{itemize}
+				Post-Conditions : \begin{itemize}
+							\item A new Thread now exists under which people can create posts
+						     \end{itemize}
+			\subsubsection{Voting}
+				Pre-Conditions : \begin{itemize}
+							\item Must not be logged in.
+							\item User has not yet voted
+						     \end{itemize}
+				Post-Conditions : \begin{itemize}
+							\item User voted
+						     \end{itemize}	
 
 	\subsection{Required functionality}
 		Put words here...
