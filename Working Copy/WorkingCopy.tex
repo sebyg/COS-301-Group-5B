@@ -17,7 +17,7 @@
 
     {\normalsize Sebastian Gerber (12213749)\par}
     {\normalsize Godfrey Mathe (13103394)\par}
-    {\normalsize Shaun Meintjies (13310896)\par}
+    {\normalsize Shaun Meintjes (13310896)\par}
     {\normalsize Duran Cole (13329414)\par}
     {\normalsize Isabel Nel (1307030)\par}
     \vspace{1cm}
@@ -48,7 +48,7 @@ The forum needs to be user-friendly to help inexperienced users to easily naviga
 				\item Post
 				\item Thread
 				\item Buzz Space
-				\item User Management
+				\item User Management(Profile)
 			 \end{itemize}
 		\subsubsection{Important}
 			\begin{itemize}
@@ -76,13 +76,22 @@ The forum needs to be user-friendly to help inexperienced users to easily naviga
 				Post-Conditions : \begin{itemize}
 							\item User is logged out.
 						     \end{itemize}
-			\subsubsection{CreatePost}
+			\subsubsection{Post}
 				Pre-Conditions : \begin{itemize}
 							\item Must be logged in.
 							\item A thread should exist.
 						     \end{itemize}
 				Post-Conditions : \begin{itemize}
 							\item Post is created.
+						     \end{itemize}
+			\subsubsection{Buzz Space}
+				Pre-Conditions : \begin{itemize}
+							\item To create a Buzz Space, user must be logged in and user must be authorized.
+							\item To delete a Buzz Space the Buzz Space must exist and user must own the Buzz Space.
+							\item To edit a Buzz Space, the Buzz Space must exist and user must own Buzz Space.
+						     \end{itemize}
+				Post-Conditions : \begin{itemize}
+							\item Buzz Space is either created, deleted or edited according to the functionality used.
 						     \end{itemize}
 			\subsubsection{Request}
 				Pre-Conditions : \begin{itemize}
@@ -93,21 +102,35 @@ The forum needs to be user-friendly to help inexperienced users to easily naviga
 						     \end{itemize}
 			\subsubsection{Thread}
 				Pre-Conditions : \begin{itemize}
-							\item Only Authorised persons may use this functionality
-							\item Buzz Space needs to exist 
-							\ No such thread sould already exist
+							\item Only Authorised persons may use this functionality.
+							\item Buzz Space needs to exist .
+							\ No such thread sould already exist.
 						     \end{itemize}
 				Post-Conditions : \begin{itemize}
-							\item A new Thread now exists under which people can create posts
+							\item A new Thread now exists under which people can create posts.
 						     \end{itemize}
 			\subsubsection{Voting}
 				Pre-Conditions : \begin{itemize}
 							\item Must not be logged in.
-							\item User has not yet voted
+							\item User has not yet voted.
 						     \end{itemize}
 				Post-Conditions : \begin{itemize}
-							\item User voted
+							\item User voted.
+						     \end{itemize}
+			\subsubsection{Search}
+				Pre-Conditions : \begin{itemize}
+							\item User needs to enter a search request.
+						     \end{itemize}
+				Post-Conditions : \begin{itemize}
+							\item Search results are returned.
 						     \end{itemize}	
+			\subsubsection{Notifications}
+				Pre-Conditions : \begin{itemize}
+							\item Must not be logged in to see notifications.
+						     \end{itemize}
+				Post-Conditions : \begin{itemize}
+							\item Notification is displayed to user.
+						     \end{itemize}
 
 	\subsection{Required functionality}
 	\begin{center}
