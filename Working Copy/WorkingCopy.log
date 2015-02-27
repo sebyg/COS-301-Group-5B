@@ -1,9 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.27)  27 FEB 2015 12:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  27 FEB 2015 13:55
 entering extended mode
 **WorkingCopy.tex
-
-("C:\Users\Rhetoricalquiz\Desktop\3rd year\Layout\images\COS-301-Group-5B\Worki
-ng Copy\WorkingCopy.tex"
+("C:\Users\Duran\Documents\COS-301-Group-5B\Working Copy\WorkingCopy.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -15,9 +13,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\base\size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -32,31 +30,31 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\graphics\graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\graphics\keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\graphics\graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\00miktex\graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\pdftex-def\pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -64,14 +62,14 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\hyperref\hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\generic\oberdiek\hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+(C:\Users\Duran\Documents\MikTex2.9\tex\generic\oberdiek\hobsub-generic.sty
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -86,4 +84,526 @@ Package ifpdf Info: pdfTeX in PDF mode is detected.
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some pac
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Duran\Documents\MikTex2.9\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen105
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count91
+
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen106
+\Fld@menulength=\count92
+\Field@Width=\dimen107
+\Fld@charsize=\dimen108
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Users\Duran\Documents\COS-301-Group-5B\Working Copy\WorkingCopy.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(C:\Users\Duran\Documents\MikTex2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen109
+\scratchbox=\box26
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen110
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks16
+)
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring OFF on input line 7.
+ (C:\Users\Duran\Documents\MikTex2.9\tex\latex\hyperref\nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(C:\Users\Duran\Documents\MikTex2.9\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count104
+)
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+LaTeX Info: Redefining \nameref on input line 7.
+
+("C:\Users\Duran\Documents\COS-301-Group-5B\Working Copy\WorkingCopy.out")
+("C:\Users\Duran\Documents\COS-301-Group-5B\Working Copy\WorkingCopy.out")
+\@outlinefile=\write3
+
+<Images/example.jpg, id=95, 1156.32pt x 650.43pt>
+File: Images/example.jpg Graphic file (type jpg)
+ <use Images/example.jpg>
+Package pdftex.def Info: Images/example.jpg used on input line 16.
+(pdftex.def)             Requested size: 346.89868pt x 195.1305pt.
+
+Overfull \hbox (54.39868pt too wide) in paragraph at lines 16--17
+ [][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Duran/Documents/
+COS-301-Group-5B/Working Copy/Images/example.jpg>]
+Overfull \hbox (6.86775pt too wide) in paragraph at lines 57--57
+[]\OT1/cmr/bx/n/17.28 Functional re-quire-ments and ap-pli-ca-tion de-
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
+(C:\Users\Duran\Documents\MikTex2.9\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+ [2
+
+] [3] [4]
+<Images/thread.jpg, id=122, 955.57pt x 509.905pt>
+File: Images/thread.jpg Graphic file (type jpg)
+ <use Images/thread.jpg>
+Package pdftex.def Info: Images/thread.jpg used on input line 130.
+(pdftex.def)             Requested size: 477.78383pt x 254.95187pt.
+
+Overfull \hbox (87.78383pt too wide) in paragraph at lines 130--131
+ [] 
+ []
+
+<Images/Login_Logout.jpg, id=123, 727.71875pt x 344.28625pt>
+File: Images/Login_Logout.jpg Graphic file (type jpg)
+
+<use Images/Login_Logout.jpg>
+Package pdftex.def Info: Images/Login_Logout.jpg used on input line 132.
+(pdftex.def)             Requested size: 436.63461pt x 206.57333pt.
+
+Overfull \hbox (46.63461pt too wide) in paragraph at lines 132--133
+ [][] 
+ []
+
+[5 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Images/thread.jpg>]
+<Images/Request.jpg, id=128, 646.415pt x 511.9125pt>
+File: Images/Request.jpg Graphic file (type jpg)
+ <use Images/Request.jpg>
+Package pdftex.def Info: Images/Request.jpg used on input line 134.
+(pdftex.def)             Requested size: 387.85199pt x 307.14987pt.
+
+<Images/Post.jpg, id=129, 913.4125pt x 695.59875pt>
+File: Images/Post.jpg Graphic file (type jpg)
+ <use Images/Post.jpg>
+Package pdftex.def Info: Images/Post.jpg used on input line 136.
+(pdftex.def)             Requested size: 456.70514pt x 347.79852pt.
+
+Overfull \hbox (66.70514pt too wide) in paragraph at lines 136--137
+ [][] 
+ []
+
+[6 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Images/Login_Logout.
+jpg> <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Images/Request.jpg
+>] <Images/Voting.jpg, id=134, 449.68pt x 379.4175pt>
+File: Images/Voting.jpg Graphic file (type jpg)
+ <use Images/Voting.jpg>
+Package pdftex.def Info: Images/Voting.jpg used on input line 138.
+(pdftex.def)             Requested size: 359.74448pt x 303.53441pt.
+
+[7 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Images/Post.jpg>]
+<Images/Search.jpg, id=140, 402.50375pt x 323.2075pt>
+File: Images/Search.jpg Graphic file (type jpg)
+ <use Images/Search.jpg>
+Package pdftex.def Info: Images/Search.jpg used on input line 140.
+(pdftex.def)             Requested size: 322.00343pt x 258.56635pt.
+
+[8 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Images/Voting.jpg>]
+<Images/"Buzz Spaces".jpg, id=145, 848.16875pt x 744.7825pt>
+File: Images/"Buzz Spaces".jpg Graphic file (type jpg)
+
+<use Images/"Buzz Spaces".jpg>
+Package pdftex.def Info: Images/"Buzz Spaces".jpg used on input line 142.
+(pdftex.def)             Requested size: 466.49425pt x 409.63164pt.
+
+Overfull \hbox (76.49425pt too wide) in paragraph at lines 142--143
+ [][] 
+ []
+
+[9 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Images/Search.jpg>]
+[10 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Images/Buzz Spaces.
+jpg>]
+<Activity_Diagram__Create_Buzz_Space_Activity__Create_Buzz_Space_Activity.jpg, 
+id=154, 521.95pt x 263.98625pt>
+File: Activity_Diagram__Create_Buzz_Space_Activity__Create_Buzz_Space_Activity.
+jpg Graphic file (type jpg)
+
+<use Activity_Diagram__Create_Buzz_Space_Activity__Create_Buzz_Space_Activity.j
+pg>
+Package pdftex.def Info: Activity_Diagram__Create_Buzz_Space_Activity__Create_B
+uzz_Space_Activity.jpg used on input line 148.
+(pdftex.def)             Requested size: 287.07338pt x 145.19287pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+<Activity_Diagram__Delete_Buzz_Space_Activity__Delete_Buzz_Space_Activity.jpg, 
+id=155, 464.73625pt x 516.93124pt>
+File: Activity_Diagram__Delete_Buzz_Space_Activity__Delete_Buzz_Space_Activity.
+jpg Graphic file (type jpg)
+
+<use Activity_Diagram__Delete_Buzz_Space_Activity__Delete_Buzz_Space_Activity.j
+pg>
+Package pdftex.def Info: Activity_Diagram__Delete_Buzz_Space_Activity__Delete_B
+uzz_Space_Activity.jpg used on input line 150.
+(pdftex.def)             Requested size: 255.60571pt x 284.31306pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+
+ []
+
+
+<Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg, id=1
+56, 430.60875pt x 409.53pt>
+File: Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg 
+Graphic file (type jpg)
+
+<use Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_
+Space_Activity.jpg used on input line 153.
+(pdftex.def)             Requested size: 236.83553pt x 225.24219pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
+
+ []
+
+[11 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Activity_Diagram__C
+reate_Buzz_Space_Activity__Create_Buzz_Space_Activity.jpg> <C:/Users/Duran/Docu
+ments/COS-301-Group-5B/Working Copy/Activity_Diagram__Delete_Buzz_Space_Activit
+y__Delete_Buzz_Space_Activity.jpg>]
+<Activity_Diagram__Login_Activity__Login_Activity.jpg, id=161, 521.95pt x 705.6
+3625pt>
+File: Activity_Diagram__Login_Activity__Login_Activity.jpg Graphic file (type j
+pg)
+ <use Activity_Diagram__Login_Activity__Login_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Login_Activity__Login_Activity.jpg u
+sed on input line 156.
+(pdftex.def)             Requested size: 208.77629pt x 282.2495pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+ []
+
+
+<Activity_Diagram__Logout_Activity__Logout_Activity.jpg, id=162, 322.20375pt x 
+383.4325pt>
+File: Activity_Diagram__Logout_Activity__Logout_Activity.jpg Graphic file (type
+ jpg)
+ <use Activity_Diagram__Logout_Activity__Logout_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Logout_Activity__Logout_Activity.jpg
+ used on input line 159.
+(pdftex.def)             Requested size: 177.2126pt x 210.88852pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+
+ []
+
+[12 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Activity_Diagram__E
+dit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg> <C:/Users/Duran/Document
+s/COS-301-Group-5B/Working Copy/Activity_Diagram__Login_Activity__Login_Activit
+y.jpg>] <Activity_Diagram__Profile__Profile.jpg, id=167, 471.7625pt x 401.5pt>
+File: Activity_Diagram__Profile__Profile.jpg Graphic file (type jpg)
+
+<use Activity_Diagram__Profile__Profile.jpg>
+Package pdftex.def Info: Activity_Diagram__Profile__Profile.jpg used on input l
+ine 162.
+(pdftex.def)             Requested size: 259.47017pt x 220.82567pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+
+ []
+
+
+<Activity_Diagram__Search_Activity__Search_Activity.jpg, id=168, 326.21875pt x 
+509.905pt>
+File: Activity_Diagram__Search_Activity__Search_Activity.jpg Graphic file (type
+ jpg)
+ <use Activity_Diagram__Search_Activity__Search_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Search_Activity__Search_Activity.jpg
+ used on input line 165.
+(pdftex.def)             Requested size: 146.79707pt x 229.45512pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
+
+ []
+
+[13 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Activity_Diagram__L
+ogout_Activity__Logout_Activity.jpg> <C:/Users/Duran/Documents/COS-301-Group-5B
+/Working Copy/Activity_Diagram__Profile__Profile.jpg>]
+<Activity_Diagram__Voting_Activity__Voting_Activity.jpg, id=174, 688.5725pt x 6
+29.35126pt>
+File: Activity_Diagram__Voting_Activity__Voting_Activity.jpg Graphic file (type
+ jpg)
+ <use Activity_Diagram__Voting_Activity__Voting_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Voting_Activity__Voting_Activity.jpg
+ used on input line 168.
+(pdftex.def)             Requested size: 309.85475pt x 283.20544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+
+ []
+
+<createThreadNew.jpg, id=175, 868.24374pt x 499.8675pt>
+File: createThreadNew.jpg Graphic file (type jpg)
+
+<use createThreadNew.jpg>
+Package pdftex.def Info: createThreadNew.jpg used on input line 171.
+(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
+
+Overfull \hbox (18.33089pt too wide) in paragraph at lines 171--173
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+[14 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Activity_Diagram__S
+earch_Activity__Search_Activity.jpg> <C:/Users/Duran/Documents/COS-301-Group-5B
+/Working Copy/Activity_Diagram__Voting_Activity__Voting_Activity.jpg>]
+<createPostNew.jpg, id=180, 868.24374pt x 499.8675pt>
+File: createPostNew.jpg Graphic file (type jpg)
+ <use createPostNew.jpg>
+Package pdftex.def Info: createPostNew.jpg used on input line 174.
+(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
+
+Overfull \hbox (18.33089pt too wide) in paragraph at lines 174--176
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+
+ []
+
+<editPostNew.jpg, id=181, 868.24374pt x 499.8675pt>
+File: editPostNew.jpg Graphic file (type jpg)
+ <use editPostNew.jpg>
+Package pdftex.def Info: editPostNew.jpg used on input line 177.
+(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
+
+Overfull \hbox (18.33089pt too wide) in paragraph at lines 177--179
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+
+ []
+
+[15 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/createThreadNew.jpg
+> <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/createPostNew.jpg>]
+<editThreadNew.jpg, id=186, 868.24374pt x 499.8675pt>
+File: editThreadNew.jpg Graphic file (type jpg)
+ <use editThreadNew.jpg>
+Package pdftex.def Info: editThreadNew.jpg used on input line 180.
+(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
+
+Overfull \hbox (18.33089pt too wide) in paragraph at lines 180--182
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+<deletePostNew.jpg, id=187, 868.24374pt x 499.8675pt>
+File: deletePostNew.jpg Graphic file (type jpg)
+ <use deletePostNew.jpg>
+Package pdftex.def Info: deletePostNew.jpg used on input line 183.
+(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
+
+Overfull \hbox (18.33089pt too wide) in paragraph at lines 183--185
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+[16 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/editPostNew.jpg> <C
+:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/editThreadNew.jpg>]
+<deleteThreadNew.jpg, id=192, 868.24374pt x 499.8675pt>
+File: deleteThreadNew.jpg Graphic file (type jpg)
+
+<use deleteThreadNew.jpg>
+Package pdftex.def Info: deleteThreadNew.jpg used on input line 186.
+(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
+
+Overfull \hbox (18.33089pt too wide) in paragraph at lines 186--188
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
+
+ []
+
+<requestNew.jpg, id=193, 860.21375pt x 499.8675pt>
+File: requestNew.jpg Graphic file (type jpg)
+ <use requestNew.jpg>
+Package pdftex.def Info: requestNew.jpg used on input line 189.
+(pdftex.def)             Requested size: 387.0926pt x 224.9383pt.
+
+Overfull \hbox (14.71742pt too wide) in paragraph at lines 189--191
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
+
+ []
+
+[17 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/deletePostNew.jpg> 
+<C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/deleteThreadNew.jpg>]
+<Images/"Domain Model Diagram".jpg, id=198, 475.7775pt x 419.5675pt>
+File: Images/"Domain Model Diagram".jpg Graphic file (type jpg)
+
+<use Images/"Domain Model Diagram".jpg>
+Package pdftex.def Info: Images/"Domain Model Diagram".jpg used on input line 1
+93.
+(pdftex.def)             Requested size: 475.77632pt x 419.56647pt.
+
+Overfull \hbox (85.77632pt too wide) in paragraph at lines 193--194
+[] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
+[18 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/requestNew.jpg>]
+[19 <C:/Users/Duran/Documents/COS-301-Group-5B/Working Copy/Images/Domain Model
+ Diagram.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
+
+("C:\Users\Duran\Documents\COS-301-Group-5B\Working Copy\WorkingCopy.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
+Package rerunfilecheck Info: File `WorkingCopy.out' has not changed.
+(rerunfilecheck)             Checksum: E232F684B29122E295F25AC4D0055C9C;1554.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
+ ) 
+Here is how much of TeX's memory you used:
+ 5152 strings out of 493921
+ 79429 string characters out of 3144475
+ 151823 words of memory out of 3000000
+ 8366 multiletter control sequences out of 15000+200000
+ 7894 words of font info for 28 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 29i,7n,28p,244b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+><C:/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
+/Users/Duran/Documents/MikTex2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on WorkingCopy.pdf (19 pages, 2538795 bytes).
+PDF statistics:
+ 235 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 305 words of extra memory for PDF output out of 10000 (max. 10000000)
+
