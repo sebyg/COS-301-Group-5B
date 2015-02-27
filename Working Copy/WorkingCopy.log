@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.26)  27 FEB 2015 14:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.25)  27 FEB 2015 14:49
 entering extended mode
-**C:/Users/Bella/Desktop/git3/Working*Copy/WorkingCopy.tex
-("C:/Users/Bella/Desktop/git3/Working Copy/WorkingCopy.tex"
+**C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working*Copy/WorkingCopy.tex
+("C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/WorkingCopy.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -177,7 +177,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
-("C:\Users\Bella\Desktop\git3\Working Copy\WorkingCopy.aux")
+("C:\Users\Shaun\Desktop\COS-301\COS-301-Group-5B\Working Copy\WorkingCopy.aux"
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -192,8 +193,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
-
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count98
 \scratchdimen=\dimen109
@@ -221,11 +221,11 @@ LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
 LaTeX Info: Redefining \nameref on input line 7.
 
-("C:\Users\Bella\Desktop\git3\Working Copy\WorkingCopy.out")
-("C:\Users\Bella\Desktop\git3\Working Copy\WorkingCopy.out")
+("C:\Users\Shaun\Desktop\COS-301\COS-301-Group-5B\Working Copy\WorkingCopy.out"
+) ("C:\Users\Shaun\Desktop\COS-301\COS-301-Group-5B\Working Copy\WorkingCopy.ou
+t")
 \@outlinefile=\write3
-
-<Images/example.jpg, id=79, 1156.32pt x 650.43pt>
+ <Images/example.jpg, id=79, 1156.32pt x 650.43pt>
 File: Images/example.jpg Graphic file (type jpg)
  <use Images/example.jpg>
 Package pdftex.def Info: Images/example.jpg used on input line 16.
@@ -236,251 +236,222 @@ Overfull \hbox (54.39868pt too wide) in paragraph at lines 16--17
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 26.
+(Font)              <12> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 26.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
+(Font)              <6> on input line 30.
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Bella/Desktop/gi
-t3/Working Copy/Images/example.jpg>]
-Overfull \hbox (6.86775pt too wide) in paragraph at lines 42--42
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Shaun/Desktop/CO
+S-301/COS-301-Group-5B/Working Copy/Images/example.jpg>]
+Overfull \hbox (6.86775pt too wide) in paragraph at lines 48--48
 []\OT1/cmr/bx/n/17.28 Functional re-quire-ments and ap-pli-ca-tion de-
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
  [2
 
 ] [3] [4]
-<Images/thread.jpg, id=101, 955.57pt x 509.905pt>
+<Images/thread.jpg, id=103, 955.57pt x 509.905pt>
 File: Images/thread.jpg Graphic file (type jpg)
  <use Images/thread.jpg>
-Package pdftex.def Info: Images/thread.jpg used on input line 138.
+Package pdftex.def Info: Images/thread.jpg used on input line 144.
 (pdftex.def)             Requested size: 477.78383pt x 254.95187pt.
 
-Overfull \hbox (87.78383pt too wide) in paragraph at lines 138--139
+Overfull \hbox (87.78383pt too wide) in paragraph at lines 144--145
  [] 
  []
 
-[5] <Images/Login_Logout.jpg, id=106, 727.71875pt x 344.28625pt>
+[5] <Images/Login_Logout.jpg, id=108, 727.71875pt x 344.28625pt>
 File: Images/Login_Logout.jpg Graphic file (type jpg)
 
 <use Images/Login_Logout.jpg>
-Package pdftex.def Info: Images/Login_Logout.jpg used on input line 140.
+Package pdftex.def Info: Images/Login_Logout.jpg used on input line 146.
 (pdftex.def)             Requested size: 363.85847pt x 172.1427pt.
 
-<Images/Request.jpg, id=107, 646.415pt x 511.9125pt>
+<Images/Request.jpg, id=109, 646.415pt x 511.9125pt>
 File: Images/Request.jpg Graphic file (type jpg)
  <use Images/Request.jpg>
-Package pdftex.def Info: Images/Request.jpg used on input line 142.
+Package pdftex.def Info: Images/Request.jpg used on input line 148.
 (pdftex.def)             Requested size: 290.88406pt x 230.35849pt.
 
-[6 <C:/Users/Bella/Desktop/git3/Working Copy/Images/thread.jpg> <C:/Users/Bella
-/Desktop/git3/Working Copy/Images/Login_Logout.jpg>]
-<Images/Post.jpg, id=112, 913.4125pt x 695.59875pt>
+[6 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/thread.
+jpg> <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/Login
+_Logout.jpg>] <Images/Post.jpg, id=114, 913.4125pt x 695.59875pt>
 File: Images/Post.jpg Graphic file (type jpg)
- <use Images/Post.jpg>
-Package pdftex.def Info: Images/Post.jpg used on input line 144.
+
+<use Images/Post.jpg>
+Package pdftex.def Info: Images/Post.jpg used on input line 150.
 (pdftex.def)             Requested size: 411.03183pt x 313.01654pt.
 
-Overfull \hbox (21.03183pt too wide) in paragraph at lines 144--145
+Overfull \hbox (21.03183pt too wide) in paragraph at lines 150--151
  [][] 
  []
 
-<Images/Voting.jpg, id=113, 449.68pt x 379.4175pt>
+<Images/Voting.jpg, id=115, 449.68pt x 379.4175pt>
 File: Images/Voting.jpg Graphic file (type jpg)
  <use Images/Voting.jpg>
-Package pdftex.def Info: Images/Voting.jpg used on input line 146.
+Package pdftex.def Info: Images/Voting.jpg used on input line 152.
 (pdftex.def)             Requested size: 269.81007pt x 227.65225pt.
 
-[7 <C:/Users/Bella/Desktop/git3/Working Copy/Images/Request.jpg> <C:/Users/Bell
-a/Desktop/git3/Working Copy/Images/Post.jpg>]
-<Images/Search.jpg, id=119, 402.50375pt x 323.2075pt>
+[7 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/Request
+.jpg> <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/Post
+.jpg>] <Images/Search.jpg, id=121, 402.50375pt x 323.2075pt>
 File: Images/Search.jpg Graphic file (type jpg)
- <use Images/Search.jpg>
-Package pdftex.def Info: Images/Search.jpg used on input line 148.
+
+<use Images/Search.jpg>
+Package pdftex.def Info: Images/Search.jpg used on input line 154.
 (pdftex.def)             Requested size: 241.5041pt x 193.926pt.
 
-<Images/"Buzz Spaces".jpg, id=120, 848.16875pt x 744.7825pt>
+<Images/"Buzz Spaces".jpg, id=122, 848.16875pt x 744.7825pt>
 File: Images/"Buzz Spaces".jpg Graphic file (type jpg)
 
 <use Images/"Buzz Spaces".jpg>
-Package pdftex.def Info: Images/"Buzz Spaces".jpg used on input line 150.
+Package pdftex.def Info: Images/"Buzz Spaces".jpg used on input line 156.
 (pdftex.def)             Requested size: 466.49425pt x 409.63164pt.
 
-Overfull \hbox (76.49425pt too wide) in paragraph at lines 150--151
+Overfull \hbox (76.49425pt too wide) in paragraph at lines 156--157
  [][] 
  []
 
-[8 <C:/Users/Bella/Desktop/git3/Working Copy/Images/Voting.jpg> <C:/Users/Bella
-/Desktop/git3/Working Copy/Images/Search.jpg>] [9 <C:/Users/Bella/Desktop/git3/
-Working Copy/Images/Buzz Spaces.jpg>]
+[8 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/Voting.
+jpg> <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/Searc
+h.jpg>] [9 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images
+/Buzz Spaces.jpg>]
 <Activity_Diagram__Create_Buzz_Space_Activity__Create_Buzz_Space_Activity.jpg, 
-id=129, 521.95pt x 263.98625pt>
+id=131, 521.95pt x 263.98625pt>
 File: Activity_Diagram__Create_Buzz_Space_Activity__Create_Buzz_Space_Activity.
 jpg Graphic file (type jpg)
 
 <use Activity_Diagram__Create_Buzz_Space_Activity__Create_Buzz_Space_Activity.j
 pg>
 Package pdftex.def Info: Activity_Diagram__Create_Buzz_Space_Activity__Create_B
-uzz_Space_Activity.jpg used on input line 156.
+uzz_Space_Activity.jpg used on input line 162.
 (pdftex.def)             Requested size: 287.07338pt x 145.19287pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
 
 <Activity_Diagram__Delete_Buzz_Space_Activity__Delete_Buzz_Space_Activity.jpg, 
-id=130, 464.73625pt x 516.93124pt>
+id=132, 464.73625pt x 516.93124pt>
 File: Activity_Diagram__Delete_Buzz_Space_Activity__Delete_Buzz_Space_Activity.
 jpg Graphic file (type jpg)
 
 <use Activity_Diagram__Delete_Buzz_Space_Activity__Delete_Buzz_Space_Activity.j
 pg>
 Package pdftex.def Info: Activity_Diagram__Delete_Buzz_Space_Activity__Delete_B
-uzz_Space_Activity.jpg used on input line 158.
+uzz_Space_Activity.jpg used on input line 164.
 (pdftex.def)             Requested size: 255.60571pt x 284.31306pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--160
-
- []
-
-
-<Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg, id=1
-31, 430.60875pt x 409.53pt>
-File: Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg 
-Graphic file (type jpg)
-
-<use Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg>
-Package pdftex.def Info: Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_
-Space_Activity.jpg used on input line 161.
-(pdftex.def)             Requested size: 236.83553pt x 225.24219pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
-
- []
-
-[10 <C:/Users/Bella/Desktop/git3/Working Copy/Activity_Diagram__Create_Buzz_Spa
-ce_Activity__Create_Buzz_Space_Activity.jpg> <C:/Users/Bella/Desktop/git3/Worki
-ng Copy/Activity_Diagram__Delete_Buzz_Space_Activity__Delete_Buzz_Space_Activit
-y.jpg>]
-<Activity_Diagram__Login_Activity__Login_Activity.jpg, id=136, 521.95pt x 705.6
-3625pt>
-File: Activity_Diagram__Login_Activity__Login_Activity.jpg Graphic file (type j
-pg)
- <use Activity_Diagram__Login_Activity__Login_Activity.jpg>
-Package pdftex.def Info: Activity_Diagram__Login_Activity__Login_Activity.jpg u
-sed on input line 164.
-(pdftex.def)             Requested size: 208.77629pt x 282.2495pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
 
 
-<Activity_Diagram__Logout_Activity__Logout_Activity.jpg, id=137, 322.20375pt x 
-383.4325pt>
-File: Activity_Diagram__Logout_Activity__Logout_Activity.jpg Graphic file (type
- jpg)
- <use Activity_Diagram__Logout_Activity__Logout_Activity.jpg>
-Package pdftex.def Info: Activity_Diagram__Logout_Activity__Logout_Activity.jpg
- used on input line 167.
-(pdftex.def)             Requested size: 177.2126pt x 210.88852pt.
+<Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg, id=1
+33, 430.60875pt x 409.53pt>
+File: Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg 
+Graphic file (type jpg)
+
+<use Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Edit_Buzz_Space_Activity__Edit_Buzz_
+Space_Activity.jpg used on input line 167.
+(pdftex.def)             Requested size: 236.83553pt x 225.24219pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
-[11 <C:/Users/Bella/Desktop/git3/Working Copy/Activity_Diagram__Edit_Buzz_Space
-_Activity__Edit_Buzz_Space_Activity.jpg> <C:/Users/Bella/Desktop/git3/Working C
-opy/Activity_Diagram__Login_Activity__Login_Activity.jpg>]
-<Activity_Diagram__Profile__Profile.jpg, id=142, 471.7625pt x 401.5pt>
-File: Activity_Diagram__Profile__Profile.jpg Graphic file (type jpg)
-
-<use Activity_Diagram__Profile__Profile.jpg>
-Package pdftex.def Info: Activity_Diagram__Profile__Profile.jpg used on input l
-ine 170.
-(pdftex.def)             Requested size: 259.47017pt x 220.82567pt.
+[10 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Activity_Diag
+ram__Create_Buzz_Space_Activity__Create_Buzz_Space_Activity.jpg> <C:/Users/Shau
+n/Desktop/COS-301/COS-301-Group-5B/Working Copy/Activity_Diagram__Delete_Buzz_S
+pace_Activity__Delete_Buzz_Space_Activity.jpg>]
+<Activity_Diagram__Login_Activity__Login_Activity.jpg, id=138, 521.95pt x 705.6
+3625pt>
+File: Activity_Diagram__Login_Activity__Login_Activity.jpg Graphic file (type j
+pg)
+ <use Activity_Diagram__Login_Activity__Login_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Login_Activity__Login_Activity.jpg u
+sed on input line 170.
+(pdftex.def)             Requested size: 208.77629pt x 282.2495pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 170--172
 
  []
 
 
-<Activity_Diagram__Search_Activity__Search_Activity.jpg, id=143, 326.21875pt x 
-509.905pt>
-File: Activity_Diagram__Search_Activity__Search_Activity.jpg Graphic file (type
+<Activity_Diagram__Logout_Activity__Logout_Activity.jpg, id=139, 322.20375pt x 
+383.4325pt>
+File: Activity_Diagram__Logout_Activity__Logout_Activity.jpg Graphic file (type
  jpg)
- <use Activity_Diagram__Search_Activity__Search_Activity.jpg>
-Package pdftex.def Info: Activity_Diagram__Search_Activity__Search_Activity.jpg
+ <use Activity_Diagram__Logout_Activity__Logout_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Logout_Activity__Logout_Activity.jpg
  used on input line 173.
-(pdftex.def)             Requested size: 146.79707pt x 229.45512pt.
+(pdftex.def)             Requested size: 177.2126pt x 210.88852pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 173--175
 
  []
 
-[12 <C:/Users/Bella/Desktop/git3/Working Copy/Activity_Diagram__Logout_Activity
-__Logout_Activity.jpg> <C:/Users/Bella/Desktop/git3/Working Copy/Activity_Diagr
-am__Profile__Profile.jpg>]
-<Activity_Diagram__Voting_Activity__Voting_Activity.jpg, id=148, 688.5725pt x 6
-29.35126pt>
-File: Activity_Diagram__Voting_Activity__Voting_Activity.jpg Graphic file (type
- jpg)
- <use Activity_Diagram__Voting_Activity__Voting_Activity.jpg>
-Package pdftex.def Info: Activity_Diagram__Voting_Activity__Voting_Activity.jpg
- used on input line 176.
-(pdftex.def)             Requested size: 309.85475pt x 283.20544pt.
+[11 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Activity_Diag
+ram__Edit_Buzz_Space_Activity__Edit_Buzz_Space_Activity.jpg> <C:/Users/Shaun/De
+sktop/COS-301/COS-301-Group-5B/Working Copy/Activity_Diagram__Login_Activity__L
+ogin_Activity.jpg>]
+<Activity_Diagram__Profile__Profile.jpg, id=144, 471.7625pt x 401.5pt>
+File: Activity_Diagram__Profile__Profile.jpg Graphic file (type jpg)
+
+<use Activity_Diagram__Profile__Profile.jpg>
+Package pdftex.def Info: Activity_Diagram__Profile__Profile.jpg used on input l
+ine 176.
+(pdftex.def)             Requested size: 259.47017pt x 220.82567pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 176--178
 
  []
 
-<createThreadNew.jpg, id=149, 868.24374pt x 499.8675pt>
-File: createThreadNew.jpg Graphic file (type jpg)
 
-<use createThreadNew.jpg>
-Package pdftex.def Info: createThreadNew.jpg used on input line 179.
-(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
-
-Overfull \hbox (18.33089pt too wide) in paragraph at lines 179--181
-[][] 
- []
-
+<Activity_Diagram__Search_Activity__Search_Activity.jpg, id=145, 326.21875pt x 
+509.905pt>
+File: Activity_Diagram__Search_Activity__Search_Activity.jpg Graphic file (type
+ jpg)
+ <use Activity_Diagram__Search_Activity__Search_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Search_Activity__Search_Activity.jpg
+ used on input line 179.
+(pdftex.def)             Requested size: 146.79707pt x 229.45512pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
 
-[13 <C:/Users/Bella/Desktop/git3/Working Copy/Activity_Diagram__Search_Activity
-__Search_Activity.jpg> <C:/Users/Bella/Desktop/git3/Working Copy/Activity_Diagr
-am__Voting_Activity__Voting_Activity.jpg>]
-<createPostNew.jpg, id=155, 868.24374pt x 499.8675pt>
-File: createPostNew.jpg Graphic file (type jpg)
- <use createPostNew.jpg>
-Package pdftex.def Info: createPostNew.jpg used on input line 182.
-(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
-
-Overfull \hbox (18.33089pt too wide) in paragraph at lines 182--184
-[][] 
- []
-
+[12 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Activity_Diag
+ram__Logout_Activity__Logout_Activity.jpg> <C:/Users/Shaun/Desktop/COS-301/COS-
+301-Group-5B/Working Copy/Activity_Diagram__Profile__Profile.jpg>]
+<Activity_Diagram__Voting_Activity__Voting_Activity.jpg, id=150, 688.5725pt x 6
+29.35126pt>
+File: Activity_Diagram__Voting_Activity__Voting_Activity.jpg Graphic file (type
+ jpg)
+ <use Activity_Diagram__Voting_Activity__Voting_Activity.jpg>
+Package pdftex.def Info: Activity_Diagram__Voting_Activity__Voting_Activity.jpg
+ used on input line 182.
+(pdftex.def)             Requested size: 309.85475pt x 283.20544pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 182--184
 
  []
 
-<editPostNew.jpg, id=156, 868.24374pt x 499.8675pt>
-File: editPostNew.jpg Graphic file (type jpg)
- <use editPostNew.jpg>
-Package pdftex.def Info: editPostNew.jpg used on input line 185.
+<createThreadNew.jpg, id=151, 868.24374pt x 499.8675pt>
+File: createThreadNew.jpg Graphic file (type jpg)
+
+<use createThreadNew.jpg>
+Package pdftex.def Info: createThreadNew.jpg used on input line 185.
 (pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
 
 Overfull \hbox (18.33089pt too wide) in paragraph at lines 185--187
@@ -492,12 +463,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
-[14 <C:/Users/Bella/Desktop/git3/Working Copy/createThreadNew.jpg> <C:/Users/Be
-lla/Desktop/git3/Working Copy/createPostNew.jpg>]
-<editThreadNew.jpg, id=161, 868.24374pt x 499.8675pt>
-File: editThreadNew.jpg Graphic file (type jpg)
- <use editThreadNew.jpg>
-Package pdftex.def Info: editThreadNew.jpg used on input line 188.
+[13 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Activity_Diag
+ram__Search_Activity__Search_Activity.jpg> <C:/Users/Shaun/Desktop/COS-301/COS-
+301-Group-5B/Working Copy/Activity_Diagram__Voting_Activity__Voting_Activity.jp
+g>] <createPostNew.jpg, id=157, 868.24374pt x 499.8675pt>
+File: createPostNew.jpg Graphic file (type jpg)
+
+<use createPostNew.jpg>
+Package pdftex.def Info: createPostNew.jpg used on input line 188.
 (pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
 
 Overfull \hbox (18.33089pt too wide) in paragraph at lines 188--190
@@ -509,10 +482,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--190
 
  []
 
-<deletePostNew.jpg, id=162, 868.24374pt x 499.8675pt>
-File: deletePostNew.jpg Graphic file (type jpg)
- <use deletePostNew.jpg>
-Package pdftex.def Info: deletePostNew.jpg used on input line 191.
+<editPostNew.jpg, id=158, 868.24374pt x 499.8675pt>
+File: editPostNew.jpg Graphic file (type jpg)
+ <use editPostNew.jpg>
+Package pdftex.def Info: editPostNew.jpg used on input line 191.
 (pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
 
 Overfull \hbox (18.33089pt too wide) in paragraph at lines 191--193
@@ -524,13 +497,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--193
 
  []
 
-[15 <C:/Users/Bella/Desktop/git3/Working Copy/editPostNew.jpg> <C:/Users/Bella/
-Desktop/git3/Working Copy/editThreadNew.jpg>]
-<deleteThreadNew.jpg, id=167, 868.24374pt x 499.8675pt>
-File: deleteThreadNew.jpg Graphic file (type jpg)
+[14 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/createThreadN
+ew.jpg> <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/createPos
+tNew.jpg>] <editThreadNew.jpg, id=163, 868.24374pt x 499.8675pt>
+File: editThreadNew.jpg Graphic file (type jpg)
 
-<use deleteThreadNew.jpg>
-Package pdftex.def Info: deleteThreadNew.jpg used on input line 194.
+<use editThreadNew.jpg>
+Package pdftex.def Info: editThreadNew.jpg used on input line 194.
 (pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
 
 Overfull \hbox (18.33089pt too wide) in paragraph at lines 194--196
@@ -542,13 +515,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--196
 
  []
 
-<requestNew.jpg, id=168, 860.21375pt x 499.8675pt>
-File: requestNew.jpg Graphic file (type jpg)
- <use requestNew.jpg>
-Package pdftex.def Info: requestNew.jpg used on input line 197.
-(pdftex.def)             Requested size: 387.0926pt x 224.9383pt.
+<deletePostNew.jpg, id=164, 868.24374pt x 499.8675pt>
+File: deletePostNew.jpg Graphic file (type jpg)
+ <use deletePostNew.jpg>
+Package pdftex.def Info: deletePostNew.jpg used on input line 197.
+(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
 
-Overfull \hbox (14.71742pt too wide) in paragraph at lines 197--199
+Overfull \hbox (18.33089pt too wide) in paragraph at lines 197--199
 [][] 
  []
 
@@ -557,47 +530,84 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
-[16 <C:/Users/Bella/Desktop/git3/Working Copy/deletePostNew.jpg> <C:/Users/Bell
-a/Desktop/git3/Working Copy/deleteThreadNew.jpg>]
-<Images/"Domain Model Diagram".jpg, id=173, 475.7775pt x 419.5675pt>
+[15 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/editPostNew.j
+pg> <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/editThreadNew
+.jpg>] <deleteThreadNew.jpg, id=169, 868.24374pt x 499.8675pt>
+File: deleteThreadNew.jpg Graphic file (type jpg)
+
+<use deleteThreadNew.jpg>
+Package pdftex.def Info: deleteThreadNew.jpg used on input line 200.
+(pdftex.def)             Requested size: 390.70607pt x 224.9383pt.
+
+Overfull \hbox (18.33089pt too wide) in paragraph at lines 200--202
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+<requestNew.jpg, id=170, 860.21375pt x 499.8675pt>
+File: requestNew.jpg Graphic file (type jpg)
+ <use requestNew.jpg>
+Package pdftex.def Info: requestNew.jpg used on input line 203.
+(pdftex.def)             Requested size: 387.0926pt x 224.9383pt.
+
+Overfull \hbox (14.71742pt too wide) in paragraph at lines 203--205
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+
+ []
+
+[16 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/deletePostNew
+.jpg> <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/deleteThrea
+dNew.jpg>]
+<Images/"Domain Model Diagram".jpg, id=175, 475.7775pt x 419.5675pt>
 File: Images/"Domain Model Diagram".jpg Graphic file (type jpg)
 
 <use Images/"Domain Model Diagram".jpg>
 Package pdftex.def Info: Images/"Domain Model Diagram".jpg used on input line 2
-01.
+07.
 (pdftex.def)             Requested size: 475.77632pt x 419.56647pt.
 
-Overfull \hbox (85.77632pt too wide) in paragraph at lines 201--202
+Overfull \hbox (85.77632pt too wide) in paragraph at lines 207--208
 [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
-[17 <C:/Users/Bella/Desktop/git3/Working Copy/requestNew.jpg>] [18 <C:/Users/Be
-lla/Desktop/git3/Working Copy/Images/Domain Model Diagram.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+[17 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/requestNew.jp
+g>] [18 <C:/Users/Shaun/Desktop/COS-301/COS-301-Group-5B/Working Copy/Images/Do
+main Model Diagram.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
 
-("C:\Users\Bella\Desktop\git3\Working Copy\WorkingCopy.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
+("C:\Users\Shaun\Desktop\COS-301\COS-301-Group-5B\Working Copy\WorkingCopy.aux"
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
 Package rerunfilecheck Info: File `WorkingCopy.out' has not changed.
 (rerunfilecheck)             Checksum: F8694837DA0F491869D9D9D9AAF8730B;1309.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
  ) 
 Here is how much of TeX's memory you used:
- 5138 strings out of 493921
- 78772 string characters out of 3147282
- 151823 words of memory out of 3000000
- 8362 multiletter control sequences out of 15000+200000
- 7894 words of font info for 28 fonts, out of 3000000 for 9000
+ 5140 strings out of 493921
+ 79013 string characters out of 3147282
+ 152823 words of memory out of 3000000
+ 8363 multiletter control sequences out of 15000+200000
+ 8063 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,7n,28p,562b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,28p,582b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on WorkingCopy.pdf (18 pages, 2538039 bytes).
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on WorkingCopy.pdf (18 pages, 2545516 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
+ 213 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)
  273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
